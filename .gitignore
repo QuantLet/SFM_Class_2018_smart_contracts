@@ -1,0 +1,15 @@
+./ABI/*
+./full/*
+./sol_source/*
+./solcAutoDoc/*
+API_token.txt
+derivative.json
+Ethereum.csv
+An_empirical_analysis_of_smart_contracts.csv
+contracts_source_codes.csv
+ABI
+full
+sol_source
+solcAutoDoc
+.ipynb_checkpoints/
+.DS_Store
