@@ -10,3 +10,5 @@ sol_source
 solcAutoDoc
 .ipynb_checkpoints/
 .DS_Store
+contracts_source_codes.csv
+Ethereum.csv
