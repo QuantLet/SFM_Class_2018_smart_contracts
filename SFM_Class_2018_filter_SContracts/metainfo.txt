@@ -11,7 +11,7 @@ Description:       "From Source codes of Ethereum Smart Contracts create a data 
 
  
 
-Keywords:          "parse, text mining, source code, Solidity, trading, fintech, Ethereum"
+Keywords:          "parsing, text mining, source code, Solidity, fintech, Ethereum"
 
 
 
