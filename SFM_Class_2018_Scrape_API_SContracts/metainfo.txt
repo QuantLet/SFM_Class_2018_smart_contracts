@@ -11,7 +11,7 @@ Description:       "Scrape the Etherscan API to get source code of smart contrac
 
  
 
-Keywords:          "hash, algorithm, crix, cryptocurrency, scrape, trading, fintech, Ethereum, API, Solidity"
+Keywords:          "crypto, scraping, fintech, Ethereum, API, Solidity, source code"
 
 
 
