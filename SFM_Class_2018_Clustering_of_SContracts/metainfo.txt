@@ -11,7 +11,7 @@ Description:       "Clustering Ethereum Smart Contracts"
 
  
 
-Keywords:          "hash, algorithm, crix, cryptocurrency, bitcoin, neural network, trading, fintech, Ethereum"
+Keywords:          "Ethereum, clustering, source code, kmeans, tsne, smart contracts, blockchain, crypto"
 
 
 
